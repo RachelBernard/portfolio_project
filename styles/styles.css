@@ -10,7 +10,7 @@ h2 {
 a {
   color: #87aaaa;
   font-size: 20px;
-  text-decoration: none;
+  text-decoration: solid;
   display: flex;
   justify-content: space-evenly;
 }
@@ -20,7 +20,7 @@ a:hover {
 }
 
 .button {
-  background-color: #f6d7a7;
+  background-color: #f6eabe;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   border-radius: 10px;
 }
