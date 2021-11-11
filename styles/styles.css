@@ -33,6 +33,7 @@ a {
   text-decoration: solid;
   display: flex;
   justify-content: space-evenly;
+  font-family: "Rubik", sans-serif;
 }
 
 a:hover {
