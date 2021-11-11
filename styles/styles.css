@@ -84,4 +84,5 @@ p {
   position: relative;
   left: 20px;
   border-color: #87aaaa !important;
+  box-shadow: #87aaaa !important;
 }
