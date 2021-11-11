@@ -41,6 +41,10 @@ a:hover {
   color: #f6d7a7;
 }
 
+p {
+  font-family: "Poppins", sans-serif;
+}
+
 .button {
   background-color: #87aaaa;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
