@@ -72,3 +72,8 @@ p {
 .cooking {
   margin-top: 20px;
 }
+
+.bio {
+  position: relative;
+  top: 300px;
+}
