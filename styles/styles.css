@@ -79,3 +79,8 @@ p {
   right: 120px;
   font-size: 25px;
 }
+
+.pfp {
+  position: relative;
+  left: 20px;
+}
