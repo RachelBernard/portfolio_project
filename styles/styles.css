@@ -93,6 +93,10 @@ p {
   padding-top: 30px;
 }
 
+.hero h3 {
+  padding-bottom: 30px;
+}
+
 .hero {
   background-color: #87aaaa;
 }
