@@ -86,3 +86,11 @@ p {
   border-color: #87aaaa !important;
   box-shadow: #87aaaa !important;
 }
+
+.hero h1 {
+  color: #f6eabe;
+}
+
+.hero {
+  background-color: #87aaaa;
+}
