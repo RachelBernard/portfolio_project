@@ -13,7 +13,6 @@ h1 {
   font-size: 85px;
   line-height: 1;
   color: #87aaaa;
-
   font-family: "Poppins", sans-serif;
 }
 
@@ -68,20 +67,6 @@ p {
   margin-top: 20px;
 }
 
-.bio {
-  position: relative;
-  top: 100px;
-  right: 120px;
-  font-size: 25px;
-}
-
-.pfp {
-  position: relative;
-  left: 20px;
-  border-color: #87aaaa !important;
-  box-shadow: #87aaaa !important;
-}
-
 .hero h1 {
   color: #f6eabe;
   margin: 0 auto;
@@ -94,6 +79,28 @@ p {
 
 .hero {
   background-color: #87aaaa;
+}
+
+.about-section h1 {
+  font-size: 64px;
+  font-family: "Poppins", sans-serif;
+}
+
+.about-section h2 {
+  font-size: 20px;
+  font-family: "Comfortaa", cursive;
+}
+
+.about-section {
+  padding: 50px 20px;
+}
+
+.about-section-content {
+  margin: 30px;
+}
+
+.about-section p {
+  font-family: "Poppins", sans-serif;
 }
 
 .project-links {
@@ -142,5 +149,15 @@ p {
 
   p {
     text-align: center;
+  }
+
+  .about-section {
+    text-align: center;
+    padding: 0px;
+  }
+
+  .about-section-content h1 {
+    margin: 15px;
+    font-size: 50px;
   }
 }
