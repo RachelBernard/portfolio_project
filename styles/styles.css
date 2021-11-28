@@ -153,16 +153,6 @@ footer {
   margin: 100px;
 }
 
-footer .button {
-  border-radius: 5px;
-  padding: 4px;
-}
-footer .contact-box {
-  background: #f6eabe;
-  padding: 20px 120px;
-  border-radius: 10px;
-}
-
 footer .email-link {
   text-decoration: none;
   color: #87aaaa;
