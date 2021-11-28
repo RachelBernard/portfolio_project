@@ -127,6 +127,23 @@ p {
   border-radius: 5%;
 }
 
+.content-container {
+  text-align: center;
+  margin: 60px auto;
+}
+
+.content-container h1 {
+  padding: 10px;
+}
+
+.content-container a {
+  color: #87aaaa;
+}
+
+.content-container a:hover {
+  color: #f6d7a7;
+}
+
 @media (max-width: 600px) {
   .project-links {
     display: block;
