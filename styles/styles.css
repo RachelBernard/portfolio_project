@@ -27,6 +27,11 @@ h3 {
   margin-top: 15px;
 }
 
+h4 {
+  color: #87aaaa;
+  font-family: "Poppins", sans-serif;
+}
+
 a {
   color: #f6eabe;
   font-size: 20px;
@@ -144,11 +149,26 @@ p {
   color: #f6d7a7;
 }
 
+footer {
+  margin: 100px;
+}
+
+footer .button {
+  border-radius: 5px;
+  padding: 4px;
+}
+footer .contact-box {
+  background: #f6eabe;
+  padding: 20px 120px;
+  border-radius: 10px;
+}
+
 footer .email-link {
   text-decoration: none;
   color: #87aaaa;
   font-size: 24px;
   text-align: center;
+  margin: 20px;
 }
 
 footer .email-link:hover {
@@ -157,15 +177,16 @@ footer .email-link:hover {
 
 footer .social-links a {
   margin: 0 20px;
-  color: #87aaaa !important;
+  color: #f6eabe !important;
+  background: #87aaaa !important;
   padding: 10px 14px;
   border-radius: 50%;
   font-size: 18px;
-  transition: all 150ms ease-in-out;
+  transition: all 100ms ease-in-out;
 }
 
 footer .social-links a:hover {
-  color: #f6d7a7;
+  color: #f6d7a7 !important;
 }
 
 @media (max-width: 600px) {
