@@ -144,6 +144,30 @@ p {
   color: #f6d7a7;
 }
 
+footer .email-link {
+  text-decoration: none;
+  color: #87aaaa;
+  font-size: 24px;
+  text-align: center;
+}
+
+footer .email-link:hover {
+  color: #f6d7a7;
+}
+
+footer .social-links a {
+  margin: 0 20px;
+  color: #87aaaa !important;
+  padding: 10px 14px;
+  border-radius: 50%;
+  font-size: 18px;
+  transition: all 150ms ease-in-out;
+}
+
+footer .social-links a:hover {
+  color: #f6d7a7;
+}
+
 @media (max-width: 600px) {
   .project-links {
     display: block;
